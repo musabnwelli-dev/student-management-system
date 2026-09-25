@@ -18,6 +18,7 @@ Eine einfache Webanwendung zur Verwaltung von Studierenden, entwickelt mit Sprin
 * Spring Data JPA / Hibernate
 * Thymeleaf
 * Bootstrap
+* HTML
 * MySQL
 * Maven
 
