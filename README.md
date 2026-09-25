@@ -36,3 +36,15 @@ Die Anwendung verwendet eine MySQL-Datenbank. Benutzername und Passwort werden �
 3. Das Projekt in IntelliJ IDEA öffnen.
 4. `StudentManagementSystemApplication` starten.
 5. Die Anwendung im Browser über `http://localhost:8080` öffnen.
+
+
+## Screenshots
+
+### Studierendenübersicht
+![Studierendenübersicht](students.png)
+
+### Studierenden hinzufügen
+![Studierenden hinzufügen](create-student.png)
+
+### Studierendendetails
+![Studierendendetails](student-details.png)
